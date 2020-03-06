@@ -3,9 +3,6 @@
     "Tutorial1": {
       "commandName": "Project",
       "commandLineArgs": "http://www.pja.edu.pl/",
-      "environmentVariables": {
-        "Key": "Value"
-      },
       "nativeDebugging": true
     }
   }
